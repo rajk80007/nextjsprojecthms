@@ -4,7 +4,7 @@ import Hero from "./_components/Hero";
 
 export default function Home() {
   return (
-    <div>
+    <div className="mx-5">
       {/* Hero Section */}
       <Hero />
     </div>
